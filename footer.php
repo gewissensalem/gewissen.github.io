@@ -1,4 +1,4 @@
-    <footer class="main-footer style-two margin-top">
+<footer class="main-footer style-two margin-top">
 		<!-- Pattern Layer -->
 		<div class="pattern-layer" style="background-image:url(images/background/5.jpg)"></div>
     	<div class="auto-container">
