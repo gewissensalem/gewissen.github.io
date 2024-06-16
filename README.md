@@ -1,2 +1,3 @@
-# gewissen.github.io
-Gewissen website
+# Gewissen website
+
+This repository contains Gewissen Digital services website
