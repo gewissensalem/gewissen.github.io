@@ -30,10 +30,10 @@
                                 <div class="footer-widget links-widget">
 									<h4>Links</h4>
 									<ul class="list-link">
-										<li><a href="../index.php">Home</a></li>
+										<li><a href="../index.html">Home</a></li>
 										<li><a href="../#about-us">About Us</a></li>
-										<li><a href="website-designing.php">Services</a></li>
-										<li><a href="../blog.php">Blog</a></li>
+										<li><a href="website-designing.html">Services</a></li>
+										<li><a href="../temp/blog.html">Blog</a></li>
 										<li><a href="../#contact">Contact Us</a></li>
 										
 									</ul>
@@ -52,11 +52,11 @@
                                 <div class="footer-widget links-widget">
 									<h4>Support</h4>
 									<ul class="list-link">
-										<li><a href="website-designing.php">Website Designing</a></li>
-										<li><a href="web-app-dev.php">Web Application Development</a></li>
-										<li><a href="digital-marketing.php">Digital Marketing</a></li>
-										<li><a href="sw-dev.php">Software Development</a></li>
-										<li><a href="graphic-design.php">Graphics Design</a></li>
+										<li><a href="website-designing.html">Website Designing</a></li>
+										<li><a href="web-app-dev.html">Web Application Development</a></li>
+										<li><a href="digital-marketing.html">Digital Marketing</a></li>
+										<li><a href="sw-dev.html">Software Development</a></li>
+										<li><a href="graphic-design.html">Graphics Design</a></li>
 										
 									</ul>
 								</div>
