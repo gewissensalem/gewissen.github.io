@@ -62,19 +62,19 @@
 							<div class="navbar-collapse collapse scroll-nav clearfix" id="navbarSupportedContent">
 								<ul class="navigation clearfix">
 									<!--li class="current dropdown"><a href="../#banner">Home</a-->
-									<li><a href="../index.php">Home</a></li>
+									<li><a href="../index.html">Home</a></li>
 									
 									<li><a href="../#about-us">About Us</a></li>
-									<li class= "dropdown"><a href="../services-page.php">Services</a>
+									<li class= "dropdown"><a href="../services-page.html">Services</a>
 										<ul>
-											<li><a href="website-designing.php">Website Designing</a></li>
-											<li><a href="web-app-dev.php">Web Application Development</a></li>
-											<li><a href="digital-marketing.php">Digital Marketing</a></li>
-											<li><a href="sw-dev.php">Software Development</a></li>
-											<li><a href="graphic-design.php">Graphic Design</a></li>
+											<li><a href="website-designing.html">Website Designing</a></li>
+											<li><a href="web-app-dev.html">Web Application Development</a></li>
+											<li><a href="digital-marketing.html">Digital Marketing</a></li>
+											<li><a href="sw-dev.html">Software Development</a></li>
+											<li><a href="graphic-design.html">Graphic Design</a></li>
 										</ul>
 									</li>
-									<li><a href="../blog.php">Blog</a></li>
+									<li><a href="../temp/blog.html">Blog</a></li>
 									<li><a href="../#contact">Contact us</a></li>
 								</ul>
 							</div>
@@ -128,7 +128,7 @@
 <script>
 	var i=window.location.pathname;
 	console.log(i);
-	if(i=="/gewissen/index.php"||i=="/gewissen/")
+	if(i=="/gewissen/index.html"||i=="/gewissen/")
 {
 	document.getElementById("head").style.display = "none";
 }
