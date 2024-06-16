@@ -1,3 +1,4 @@
+<!-- This is common footer for all. It needs to be generalized to be used in all pages automatically. For now, each page has separate footers. Any changes should be made in all pages manually-->
 <footer class="main-footer style-two margin-top">
 		<!-- Pattern Layer -->
 		<div class="pattern-layer" style="background-image:url(images/background/5.jpg)"></div>
