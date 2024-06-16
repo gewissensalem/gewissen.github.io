@@ -1,3 +1,4 @@
+<!-- This is common header for all. It needs to be generalized to be used in all pages automatically. For now, each page has separate headers. Any changes should be made in all pages manually-->
 <!DOCTYPE html>
 <html>
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
